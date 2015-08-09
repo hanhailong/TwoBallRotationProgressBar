@@ -1,5 +1,5 @@
 # TwoBallRotationProgressBar
-两个小球旋转的动画，一个清新的进度条
+两个小球旋转的动画，一个清新的进度条，ios版本请看这里[IOS版本](https://github.com/hanhailong/TwoBallRotationProgressBar-IOS)
 
 ##效果图
 ![image](https://github.com/hanhailong/TwoBallRotationProgressBar/blob/master/screenshot/twoballrotationprogressbar.gif)
